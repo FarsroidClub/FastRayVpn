@@ -1,10 +1,10 @@
 {
-"Title": "چرا الکی پول فیلترشکن بدی! ",
-"Description": "از اینجا رایگان دانلود کن یک ریالم پول نده سرعتشم 3 برابر فیلترشکن پولیه 😁👇🏻",
-"Link": "tg://join?invite=mC14RANdVMdhMGE0",
-"ColorWave": "#00B8D4",
-"Color": "#00B8D4",
-"ColorWaveTwo": "#18FFFF",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍 (صبح 23 خرداد)",
+"Link": "tg://join?invite=5DPkA7ZYXx8wMTRk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01028373",
-"ShowTime": "2",
-"Button": " دانلود فیلترشکن پرسرعت ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
