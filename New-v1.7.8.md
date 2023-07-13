@@ -1,10 +1,10 @@
 {
-"Title": "توروخدا سرور V2Ray نخر! 😐",
-"Description": "● کانفیگای رایگان V2Ray با سرعت 3 برابری بیشتر از کانفیگای پولی رو داخل کانال قرار دادیم ، نت ملی هم دور میزنه ، رایگان رایگان برای همه 👇🏻",
-"Link": "tg://join?invite=7q3v1Gw2EfQxZWI0",
-"ColorWave": "#00B8D4",
-"Color": "#FF9100",
-"ColorWaveTwo": "#80DEEA",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید ❤️",
+"Link": "tg://join?invite=wU8eLXGtQmI0MTBk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "192339001",
-"ShowTime": "3",
-"Button": "  دریافت رایگان از تلگرام  ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
